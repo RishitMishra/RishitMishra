@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RishitMishra, a second-year BTech CSE student at Babu Banarasi Das Institute of Technology and Management in Lucknow.
+- 👋 Hi, I’m @RishitMishra, a third-year BTech CSE student at Babu Banarasi Das Institute of Technology and Management in Lucknow.
 - 👀 I’m interested in the field of machine learning and artificial intelligence.
 - 🌱 I’m currently learning about the fundamentals of machine learning and strengthening my concepts of Python programming, Java programming, and data structures and algorithms.
 - 💞️ I’m looking to collaborate on projects related to Python development.
